@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Pavel
+- 👋 Hi, I’m Pavel Straka
 - 👀 I’m interested in web apps
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email `pavel.straka3@seznam.cz`
 
 <!---
